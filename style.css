@@ -12,9 +12,23 @@ h3 {
   text-align: center;
 }
 
+h4 {
+  text-align: center;
+}
+
 #portrait {
   width: 25%;
   margin: 0px auto;
   display: block;
 }
 
+p {
+  text-align: center;
+  padding-top: 10px;
+}
+
+#hobbies {
+  display: block;
+  margin: auto;
+
+}
