@@ -25,12 +25,12 @@ h4 {
 p {
   text-align: center;
   padding-top: 10px;
+  margin-left:500px;
+  margin-right: 500px;
 }
 
 #hobbies {
-
-  
-  text-align: center;
-  
-
+  display: block;
+  margin-left: 550px;
+  margin-right: 550px;
 }
