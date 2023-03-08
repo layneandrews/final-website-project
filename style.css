@@ -28,7 +28,9 @@ p {
 }
 
 #hobbies {
-  display: block;
-  margin: auto;
+
+  
+  text-align: center;
+  
 
 }
