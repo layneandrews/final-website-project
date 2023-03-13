@@ -32,13 +32,15 @@ h3 {
 }
 
 #hobbies {
-  display: block;
-  margin-left: 1165px;
-  margin-right: 1150px;
+  text-align: center;
+  margin-left: 850px;
+  margin-right: 850px;
   
 }
 
 #introduction {
-  padding-left: 500px;
-  padding-right: 500px;
+  padding-left: 300px;
+  padding-right: 300px;
 }
+
+
